@@ -19,7 +19,7 @@ This repository contains Python coding exercises across different learning platf
 
 ## 🛠️ Tools Used
 
-*   **Language:** Python
+*   **Language:** Python 3
 *   **Editor:** *PyCharm*, online compilers
 
 ## 📈 Goals
