@@ -1,8 +1,8 @@
 # 🐍 PYnative Progress Tracker
 
 ## 📊 Core Python Basics
-- [ ] Loops (0/40)
-- [ ] Input/Output (0/23)
+- [ ] Loops (6/40)
+- [ ] Input/Output (1/23)
 - [ ] Functions (0/18)
 - [ ] Strings (0/38)
 - [ ] Basic Exercise for Beginners (1/40)
